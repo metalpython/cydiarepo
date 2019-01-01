@@ -1,13 +1,13 @@
 Package: com.pineapple.respringer
-Version: 1.0.0-4+debug
+Version: 1.0.0-5+debug
 Architecture: iphoneos-arm
 Maintainer: pineapple
-Installed-Size: 340
-Filename: ./debs/com.pineapple.respringer_1.0.0-4+debug_iphoneos-arm.deb
-Size: 217204
-MD5sum: 6b934ed31201f8f010097da8b2b21708
-SHA1: 3e812b2320e95a11af4280d2800a48976a55c639
-SHA256: 4e4fffa2d4080ef176eb8d966377d0e3f0af69fa794c5106ece9a99c6aee03f9
+Installed-Size: 468
+Filename: ./debs/com.pineapple.respringer_1.0.0-5+debug_iphoneos-arm.deb
+Size: 219866
+MD5sum: 00af25338f9a8ac11e021c1275a879af
+SHA1: bfbdaa9ff4afd055bb9a6879dcf473d89cc78e4b
+SHA256: f20961064ec1b3f83278b96d122d94832139dbf9aa6986efde156ced5789e88a
 Section: Utilities
 Description: An application that resprings the device by sending a SIGTERM to SpringBoard (iOS 1 - 5) or backboardd (iOS 6 - Current)
 Author: pineapple
